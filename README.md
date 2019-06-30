@@ -58,4 +58,4 @@ and there are many attributes to change
  ```
  ## example
  
- ![](./gif/show1.gif)
+ ![](./gif/show.gif)
