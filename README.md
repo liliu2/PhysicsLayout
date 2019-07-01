@@ -50,7 +50,7 @@ You can customize your layout what you want
     </com.jawnnypoo.physicslayout.PhysicsLinearLayout>
     
  ```
-and there are many XML attributes to change
+and there are many XML attributes can change
 
 ```
  <com.jawnnypoo.physicslayout.PhysicsLinearLayout
@@ -69,9 +69,5 @@ and there are many XML attributes to change
  - ```bounds``` 布林值,判斷是否有邊界(預設為true)
  - ```boundsSize``` 設置邊界寬度
  
-
- 
- 
- ## example
- 
  ![](./gif/balldown.gif)
+ 
