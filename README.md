@@ -71,3 +71,10 @@ and there are many XML attributes can change
  
  ![](./gif/balldown.gif)
  
+ ## Method
+ 
+ ```
+     public void random(View view) {
+        range.getPhysics().giveRandomImpulse();
+    }
+```
